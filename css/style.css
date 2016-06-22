@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+} 
+body {
+    border: 1px solid Chocolate;
+}
+/* Navigation Section */
+.top-navigation {
+    background-color: #fff;
+}
+.top-navigation > .content {
+    width: 970px;
+    height: 70px;
+    margin: auto;
+}
+ul {
+    list-style: none;
+}
+.inline-block {
+    display: inline-block;
+}
