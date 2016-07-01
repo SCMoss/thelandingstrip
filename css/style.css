@@ -1,4 +1,5 @@
 body {
+    font-family: 'Roboto', sans-serif;
     background-color: lightgray;
     margin:0;
 }
@@ -8,8 +9,15 @@ body {
 }
 .top-navigation > .content {
     width: 700px;
-    height: 70px;
+    height: 55px;
     margin: auto;
+}
+.top-navigation .logo {
+  margin-top: 0.5rem
+}
+.top-navigation .links {
+    float: right;
+    margin-top: 1.5rem
 }
 .top-navigation .links li {
     display: inline-block;
@@ -62,7 +70,7 @@ button {
     height: 4em;
 }
 .three-logo {
-    width: 565px;
+    width: 620px;
     margin: 0 auto;
 }
 .three-logo li{
